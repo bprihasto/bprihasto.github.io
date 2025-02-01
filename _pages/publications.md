@@ -1,14 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-# permalink: /publications/
+permalink: /publications/
 author_profile: true
 ---
 
-
-
-EVA-ASCA: Enhancing Voice Anti-Spoofing through Attention-based Similarity Weights and Contrastive Negative Attractors
- no-Q as Conference Proceedin Proceedings - 2024 IEEE Conference on Artificial Intelligence, CAI 2024
 
 
 {% if author.googlescholar %}
