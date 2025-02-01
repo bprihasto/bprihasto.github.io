@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, nice to meet you! My name is Bima Prihasto, and I am a lecturer at the Department of Informatics, Institut Teknologi Kalimantan, Indoensia. I specialize in three main areas: Speech Processing, Computer Vision, and Machine Learning.
+I am Bima Prihasto, a dedicated lecturer and researcher at a higher education institution in East Kalimantan. With a solid foundation in mathematics, I pursued advanced studies and completed my PhD at National Central University in Taiwan. My dissertation focused on "Non-Parallel Voice Conversion and Speech Synthesis using Contrastive Learning and Deep Learning," showcasing my expertise in machine learning and deep learning.
 
-I began my educational journey at the Institut Teknologi Sepuluh Nopember (ITS) in Indonesia where I completed both my undergraduate and master’s degrees. Throughout my studies, I actively participated in various academic and non-academic activities, including student organizations and research projects. These experiences have helped me develop valuable social and professional skills that greatly contribute to my current career.
-
-Currently, I am pursuing a PhD degree at National Central University, Taiwan..
-
-Feel free to contact me for any further information or inquiries!
+During my PhD studies, I engaged in several projects related to applications in speech processing and computer vision. I have had the opportunity to serve as a reviewer for prestigious publications such as the IEEE Access Journal and the IEEE ICASSP Conference, known for their high h-index. Additionally, I collaborated on research with Academia Sinica in Taiwan, further enriching my academic and professional experience.
 
 
 
