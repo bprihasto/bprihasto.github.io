@@ -1,9 +1,11 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
---- -->
+redirect_from:
+  - /resume
+---
 
 <!-- 
 
@@ -17,14 +19,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
-redirect_from:
-  - /resume
----
+
 
 {% include base_path %}
 
