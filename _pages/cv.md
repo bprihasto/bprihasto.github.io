@@ -15,7 +15,7 @@ Education
 * M.S. in Mathematics, Institut Teknologi Sepuluh Nopember - Indonesia, 2015
 * Ph.D in Computer Science, National Central University - Taiwan, 2023 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -35,4 +35,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
