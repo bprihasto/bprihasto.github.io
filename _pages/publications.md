@@ -11,9 +11,9 @@ redirect_from:
 
 
 
-Bima Prihasto, Shabrina Choirunnisa, Muhammad Ishak Nurdiansyah, Seksan Mathulaprangsan, Vivian Ching-Mei Chu, Shi-Huang Chen, and Jia-Ching Wang. ‘A Survey of Deep Face Recognition in the Wild’. In 2016 International Conference on Orange Technologies (ICOT), 76–79. IEEE, 2016.
+1. Bima Prihasto, Shabrina Choirunnisa, Muhammad Ishak Nurdiansyah, Seksan Mathulaprangsan, Vivian Ching-Mei Chu, Shi-Huang Chen, and Jia-Ching Wang. ‘A Survey of Deep Face Recognition in the Wild’. In 2016 International Conference on Orange Technologies (ICOT), 76–79. IEEE, 2016.
 
-Naufal Fathurahmah, Sigit Pancahayani, Abrari Noor Hasmi, and Bima Prihasto. ‘Classification of Security Quality Level Using Fuzzy Logic Study Case: Balikpapan City’. In Journal of Physics: Conference Series, 1821:012043. IOP Publishing, 2021.
+2. Naufal Fathurahmah, Sigit Pancahayani, Abrari Noor Hasmi, and Bima Prihasto. ‘Classification of Security Quality Level Using Fuzzy Logic Study Case: Balikpapan City’. In Journal of Physics: Conference Series, 1821:012043. IOP Publishing, 2021.
 
 Nur Fajri Azhar, M. Ihsan Alfani Putera, Bima Prihasto, Tegar Palyus Fiqar, Syamsul Mujahidin, and Others. ‘PENDAMPINGAN PENDIDIKAN TIK PADA MASYARAKAT DESA PADANG PANGRAPAT SEBAGAI DESA BINAAN UNTUK MENINGKATKAN DAYA SAING DI ERA SOCIETY 5.0’. In Seminar Nasional Pengabdian Kepada Masyarakat (SEPAKAT), Vol. 2, 2021.
 
