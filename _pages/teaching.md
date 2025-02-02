@@ -10,13 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-2024/2025 Ganjil
+# 2024/2025 Ganjil
 Pengantar Kecerdasan Buatan	IF201418	B	Institut Teknologi Kalimantan
+
 Pengantar Kecerdasan Buatan	IF201418	A	Institut Teknologi Kalimantan
+
 Deep Learning	IF201505	_	Institut Teknologi Kalimantan
+
 Algoritme Pemrograman	KU201218	K	Institut Teknologi Kalimantan
 
-2023/2024 Genap
+# 2023/2024 Genap
 Pemelajaran Mesin	IF201425	A	Institut Teknologi Kalimantan
 Pemelajaran Mesin	IF201425	B	Institut Teknologi Kalimantan
 Deep Learning	IF201505	_	Institut Teknologi Kalimantan
